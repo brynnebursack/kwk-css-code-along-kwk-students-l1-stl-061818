@@ -1,1 +1,13 @@
 /* add CSS class and element and selectors here */
+
+body {
+      background-color: #AFFFDE;
+      font-size: 100%;
+    }
+
+.brynneclass {
+  color: #5EE8B0;
+  font-family: Brush Script MT;
+  font-size: 500%;
+  border: 10px dotted blue;
+}
